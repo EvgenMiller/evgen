@@ -1,0 +1,50 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+ 
+#header {
+    margin: 50px;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+}
+
+
+#button1 {
+    color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    margin-right: 10px;
+    background-color: lightblue;
+    
+    
+    
+    
+}
+
+#button2 {
+    color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    position: absolute;
+    cursor: pointer;
+    background-color: dimgrey;
+    
+    
+    
+}
+
+#button1:hover {
+    background-color: rgb(101, 162, 255);
+}
+
+#button2:hover {
+    background-color: dimgrey;
+}
